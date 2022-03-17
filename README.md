@@ -1,5 +1,7 @@
 # GWILL
 
+download zip or clone repo. All required files are provided
+
 live website can be view here
 
 <h3>Copyright (c) 2022 emdeechege <h3>
