@@ -9,7 +9,7 @@
 
 download zip or clone repo. All required files are provided
 
-live website can be view here
+live website can be view here https://peter-kimanzi.github.io/GWILL/
 
 <h3>Copyright (c) 2022 emdeechege <h3>
 
