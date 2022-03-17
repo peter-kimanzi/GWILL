@@ -1,5 +1,10 @@
 # GWILL
 
+## Technologies used
+* HTML
+* CSS
+* Bootstrap
+
 * JavaScript
 
 download zip or clone repo. All required files are provided
